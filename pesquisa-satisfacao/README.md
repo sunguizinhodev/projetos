@@ -32,7 +32,7 @@ Ao final, são exibidas as quantidades de respostas:
 No terminal, dentro da pasta do projeto, execute:
 
 ```bash
-python app.py
+python main.py
 ```
 
 ## Testes
